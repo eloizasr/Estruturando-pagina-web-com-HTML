@@ -1,2 +1,2 @@
-# Estruturando-pagina-web-com-HTML
+# Estruturando página web com HTML
 Segundo projeto Dio 
